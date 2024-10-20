@@ -4,7 +4,7 @@ import DadosHenrylle from "./DadosHenrylle";
 const About = () => {
   return (
     <div>
-      <h4>Versão 3.0.0  - usando script e EB cli.</h4>
+      <h4>Versão 3.0.0  - usando script, EB cli direto pelo SSM..</h4>
       <h5>BIA 14 a 20 de Outubro/2024 - domingão.</h5>
       <Link to="/">Voltar</Link>
       <DadosHenrylle />
